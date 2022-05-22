@@ -47,6 +47,8 @@ class Queue {
   }
 }
 
+/* use cases */
+
 const myQueue = new Queue();
 myQueue.enqueue('A');
 myQueue.enqueue('B');

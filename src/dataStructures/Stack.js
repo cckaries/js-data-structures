@@ -80,6 +80,8 @@ class StackWithArray {
   }
 }
 
+/* use cases */
+
 const myStack = new StackWithLinkedList();
 myStack.push('google');
 myStack.push('apple');
