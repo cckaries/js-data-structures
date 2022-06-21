@@ -81,7 +81,7 @@ class BinarySearchTree {
           if(!parentNode) { 
             this.root = currentNode.left;
           } else {
-            if(currentNode.value < parentNode.value) { // 
+            if(currentNode.value < parentNode.value) {
               parentNode.left = currentNode.left;
             } else {
               parentNode.right = currentNode.left;
