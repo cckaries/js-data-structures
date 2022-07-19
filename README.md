@@ -14,3 +14,10 @@ Including data structures and algorithms written in JavaScript.
 - Graph
 
 ## Algorithms
+- Recursion
+- Sort
+  - Bubble
+  - Selection
+  - Insertion
+  - Merge
+  - Quick
